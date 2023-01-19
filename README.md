@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm lance</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 📝 I regularly write articles on [www.ailance.top](www.ailance.top)
 
-- 💬 Ask me about **react,go**
+- 🌱 我正在学习 golang、web开发
 
-- 📫 How to reach me **1029840711@qq.com**
+- 📫 如何联系我？ **1029840711@qq.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
